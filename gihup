@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am robertjsmc on github.
+  * I am robertjsmc (https://keybase.io/robertjsmc) on keybase.
+  * I have a public key ASAyh9_1w_EhqWim00dJgh1lZ_j7eSpTkL3NCk4KoVHnCAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203287dff5c3f121a968a6d34749821d6567f8fb792a5390bdcd0a4e0aa151e7080a",
+      "host": "keybase.io",
+      "kid": "01203287dff5c3f121a968a6d34749821d6567f8fb792a5390bdcd0a4e0aa151e7080a",
+      "uid": "b097e4183a2db9e2371db56ca9741519",
+      "username": "robertjsmc"
+    },
+    "merkle_root": {
+      "ctime": 1568908404,
+      "hash": "227d97d96c518fb625835632ccf1d3d76052df6bb6cb780bf66baf9fcaed46a4f3b39a4ec1f6ed082440a8261fc79483cf9296870721842d9a1b24132f4ab320",
+      "hash_meta": "da68c9f74ec08087fdfdf866b9a365031e7c1cd7f3d72402cbb8dfbdc545c5b0",
+      "seqno": 7608401
+    },
+    "service": {
+      "entropy": "1s7wZLyAB8FD+EW7lpHF077o",
+      "name": "github",
+      "username": "robertjsmc"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568908408,
+  "expire_in": 504576000,
+  "prev": "26102212643693472de7ef0bd74229904d1e6ed341821b52cbb0304770cf740a",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASAyh9_1w_EhqWim00dJgh1lZ_j7eSpTkL3NCk4KoVHnCAo](https://keybase.io/robertjsmc), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMoff9cPxIaloptNHSYIdZWf4+3kqU5C9zQpOCqFR5wgKp3BheWxvYWTESpcCBcQgJhAiEmQ2k0ct5+8L10IpkE0ebtNBghtSy7AwR3DPdArEIK+PBJuu1bgU//wUYGtjrXxxyZSf4RibUaQgLp+TJok2AgHCo3NpZ8RAks7dBE9miTExOV5fBHZ0+K4VM/5DuIjG+5z/ZD9e5jFu3pZ21sxbp2fTacdvBAnL1I1DQtcg8vWHNxvjGAjoD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDTBUJ0tccg6UvLHkFAWV3ZYXtbpraxIaG/KENoRWuHeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/robertjsmc
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id robertjsmc
+```
